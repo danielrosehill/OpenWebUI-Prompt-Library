@@ -1,0 +1,16 @@
+{
+	"OpenWebUI Prompt Library Entry": {
+		"prefix": "OpenWebUI Prompt Library Entry",
+		"description": "OpenWebUI Prompt Library Entry",
+		"scope": "markdown",
+		"body": [
+			"# Prompt",
+			"",
+			"## Why It's Useful",
+			"",
+			"## Suggested Command",
+			"",
+			"## Prompt Text"
+		]
+	}
+}
