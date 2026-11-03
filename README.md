@@ -7,6 +7,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/danielrosehill/my-openwebui-prompts)
 [![Author](https://img.shields.io/badge/Author-Daniel%20Rosehill-orange.svg)](mailto:public@danielrosehill.com)
 
+**Write-up:** [My AI prompt libraries, and which one to use](https://blog.danielrosehill.com/posts/ai-prompt-libraries-which-one-to-use-tngfmp/)
+
 This repository contains a curated collection of prompts developed specifically for OpenWebUI. These prompts are designed to be quickly accessible through the forward slash key (/) and seamlessly integrated into ongoing conversations, rather than serving as initial conversation starters.
 
 ## Purpose
